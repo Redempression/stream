@@ -7,7 +7,7 @@ import java.util.List;
 
 /** forEach
  *  对流中的元素进行遍历操作，我们通过传入的参数去指定对遍历到的元素进行什么具体操作。
- * @author 魏敏捷
+ * @author 魏敏捷aaa
  * @version 1.0
  */
 public class forEach_ {
