@@ -10,7 +10,7 @@ import java.util.Set;
 import java.util.stream.Collectors;
 
 /** collect 把当前流转换成一个集合。
- * @author 魏敏捷aaaaa
+ * @author 魏敏捷
  * @version 1.0
  */
 public class collect_ {
