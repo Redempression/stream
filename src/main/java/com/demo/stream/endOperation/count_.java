@@ -7,7 +7,7 @@ import java.util.Arrays;
 import java.util.List;
 
 /** count 可以用来获取当前流中元素的个数。
- * @author 魏敏捷aaa
+ * @author 魏敏捷
  * @version 1.0
  */
 public class count_ {
